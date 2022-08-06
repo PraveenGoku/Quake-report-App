@@ -8,11 +8,15 @@
 + from the U.S. Geological Survey (USGS) organization.
 
 ## What I've learned :
++ Using an API in an App
 + Using AsyncTasks to connect to the internet.
 + Using AsyncTasksLoader to connect to the internet.
 + Reading and parsing JSON data.
 + Customizing ListViews,using ArrayLists & ArrayAdapters.
-+ Using progress bar and listview empty for better UX.
++ Using progress bar and listview empty for better UX. 
++ Using Loaders and LoaderManager
++ Important of Background Threads and Multi-Threadingh
++ Usage and importance of App Permissions
 
 ## Screenshots 
 
