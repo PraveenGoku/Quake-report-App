@@ -16,5 +16,5 @@
 
 ## Screenshots 
 <img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/normal.png" width="480" hieght="854">
-<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/loading.png" width="480" hieght="854">
-<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/no_internet.png" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/Loading.png" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/No internet.png" width="480" hieght="854">
