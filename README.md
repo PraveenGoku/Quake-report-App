@@ -15,6 +15,6 @@
 + Using progress bar and listview empty for better UX.
 
 ## Screenshots 
-<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/normal.jpg" width="480" hieght="854">
-<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/Loading.jpg" width="480" hieght="854">
-<img src="https://github.com/PraveenGoku/Quake-report-App/blob/master/screenshots/No internet.jpg" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Quake-report-App/screenshots/normal.jpg" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Quake-report-App/screenshots/Loading.jpg" width="480" hieght="854">
+<img src="https://github.com/PraveenGoku/Quake-report-App/screenshots/No internet.jpg" width="480" hieght="854">
